@@ -7,6 +7,10 @@
 ## 学位論文
 + 卒業論文：逆学習による対訳コーパスフィルタリングに関する研究
 
+## 資格
++ 応用情報技術者試験
++ JDLA Deep Learning for ENGINEER
+
 <!--
 **maedayuki-0614/maedayuki-0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
