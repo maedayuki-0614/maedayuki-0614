@@ -1,4 +1,11 @@
-## Hi there 👋
+## プロフィール
++ 名前：前田 雄生
++ 所属：愛媛大学大学院 理工学研究科 理工学専攻 数理情報プログラム
++ 研究室：[人工知能研究室](https://sites.google.com/view/ehime-nlp/)
++ mail：maeda@ai.cs.ehime-u.ac.jp
+
+## 学位論文
++ 卒業論文：逆学習による対訳コーパスフィルタリングに関する研究
 
 <!--
 **maedayuki-0614/maedayuki-0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
