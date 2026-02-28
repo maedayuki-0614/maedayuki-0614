@@ -9,7 +9,7 @@
 
 ## 資格
 + 応用情報技術者試験
-+ JDLA Deep Learning for ENGINEER
++ [JDLA Deep Learning for ENGINEER](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/S1VWR1VvLzcwd013N0xZVkZBSjRSdz09)
 
 <!--
 **maedayuki-0614/maedayuki-0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
